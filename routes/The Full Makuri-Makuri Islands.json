@@ -1,6 +1,6 @@
 {
   "name": "The Full Makuri",
-  "distance": 81239.21743676192,
+  "distance": 81226.98332899371,
   "elevation": 700.5697475847956,
   "manifest": [
     {
@@ -250,8 +250,20 @@
       "roadId": 87
     },
     {
-      "start": 0.0151705426,
+      "start": 0.7927370374,
       "end": 0.9891841779974729,
+      "reverse": true,
+      "roadId": 6
+    },
+    {
+      "start": 0.23036649214659705,
+      "end": 0.9936833334,
+      "reverse": false,
+      "roadId": 3
+    },
+    {
+      "start": 0.0151705426,
+      "end": 0.7326946847960257,
       "reverse": true,
       "roadId": 6
     },
@@ -718,7 +730,7 @@
       "roadId": 0
     },
     {
-      "start": 0.8766890587597809,
+      "start": 0.8756,
       "end": 1,
       "reverse": true,
       "roadId": 0
