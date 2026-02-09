@@ -1,5 +1,8 @@
 
-A collection of route files that can be used with the [Sauce for Zwift](https://www.sauce.llc/products/sauce4zwift/) Zenmaster Mod
+A collection of route files that can be used with the [Sauce for Zwift](https://www.sauce.llc/products/sauce4zwift/) Zenmaster Mod.
+
+To download the .json files, right click on the Download link and choose Save link as...
+
 
 | Name        | World    | Distance | Elevation | Download | More Info | Strava |
 |-------------|----------|----------|-----------|----------|-----------|--------|
