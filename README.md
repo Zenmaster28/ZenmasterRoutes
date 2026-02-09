@@ -5,4 +5,5 @@ A collection of route files that can be used with the [Sauce for Zwift](https://
 |-------------|----------|----------|-----------|----------|-----------|--------|
 | Fower Power | Scotland | 20.7 km  | 227 m     | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Fower%20Power-Scotland.json) | [Zwift Insider](https://zwiftinsider.com/fower-power/) | [Strava](https://www.strava.com/segments/34255076) |
 | The Full Makuri | Makuri Islands | 81.2 km | 700 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Makuri-Makuri%20Islands.json) | [Zwift Insider](https://zwiftinsider.com/the-full-makuri/) | [Strava](https://www.strava.com/segments/40661737) |
+| The Roads Less Traveled | Watopia | 59.5 km | 485 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Roads%20Less%20Traveled-Watopia.json) | [Zwift Insider](https://zwiftinsider.com/roads-less-traveled/) | [Strava](https://www.strava.com/segments/35861978) |
 
