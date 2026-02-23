@@ -12,7 +12,7 @@ To download the .json files, right click on the Download link and choose Save li
   </tr>
   
   <tr>
-    <td colspan="6" align="center"><strong>— Watopia —</strong></td>
+    <td colspan="5" align="center"><strong>— Watopia —</strong></td>
   </tr>  
   <tr>
     <td><a href="https://zwiftinsider.com/cliffside-epic-double/">Cliffside Epic Double</a></td>
@@ -45,7 +45,7 @@ To download the .json files, right click on the Download link and choose Save li
   
 
   <tr>
-    <td colspan="6" align="center"><strong>— Scotland —</strong></td>
+    <td colspan="5" align="center"><strong>— Scotland —</strong></td>
   </tr>
   <tr>
     <td><a href="https://zwiftinsider.com/fower-power/">Fower Power</a></td>
@@ -63,7 +63,7 @@ To download the .json files, right click on the Download link and choose Save li
   </tr>
 
   <tr>
-    <td colspan="6" align="center"><strong>— Makuri Islands —</strong></td>
+    <td colspan="5" align="center"><strong>— Makuri Islands —</strong></td>
   </tr>
   <tr>
     <td><a href="https://zwiftinsider.com/canyon-to-cavern/">Canyon to Cavern</a></td>
@@ -81,7 +81,7 @@ To download the .json files, right click on the Download link and choose Save li
   </tr>  
 
   <tr>
-    <td colspan="6" align="center"><strong>— New York —</strong></td>
+    <td colspan="5" align="center"><strong>— New York —</strong></td>
   </tr>
   <tr>
     <td><a href="https://zwiftinsider.com/the-full-new-york/">The Full New York</a></td>
