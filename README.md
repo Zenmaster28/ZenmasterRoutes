@@ -2,7 +2,7 @@ A collection of route files that can be used with the <a href="https://www.sauce
 
 To download the .json files, right click on the Download link and choose Save link as...
 
-<h4>Watopia</h4>
+<h4>Routes</h4>
 
 <table width="100%">
   <tr>
@@ -13,6 +13,10 @@ To download the .json files, right click on the Download link and choose Save li
     <th width="10%">Download</th>
     <th width="10%">More Info</th>
     <th width="10%">Strava</th>
+  </tr>
+
+  <tr>
+    <td colspan="7"><strong>Watopia</strong></td>
   </tr>
   <tr>
     <td>The Roads Less Traveled</td>
@@ -50,19 +54,9 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/the-marvelous-metric/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/40883256">Strava</a></td>
   </tr>
-</table>
 
-<h4>Scotland</h4>
-
-<table width="100%">
   <tr>
-    <th width="40%">Name</th>
-    <th width="10%">World</th>
-    <th width="10%">Distance</th>
-    <th width="10%">Elevation</th>
-    <th width="10%">Download</th>
-    <th width="10%">More Info</th>
-    <th width="10%">Strava</th>
+    <td colspan="7"><strong>Scotland</strong></td>
   </tr>
   <tr>
     <td>Fower Power</td>
@@ -82,19 +76,9 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/sgurr-8/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/34485671">Strava</a></td>
   </tr>
-</table>
 
-<h4>Makuri Islands</h4>
-
-<table width="100%">
   <tr>
-    <th width="40%">Name</th>
-    <th width="10%">World</th>
-    <th width="10%">Distance</th>
-    <th width="10%">Elevation</th>
-    <th width="10%">Download</th>
-    <th width="10%">More Info</th>
-    <th width="10%">Strava</th>
+    <td colspan="7"><strong>Makuri Islands</strong></td>
   </tr>
   <tr>
     <td>The Full Makuri</td>
@@ -114,19 +98,9 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/canyon-to-cavern/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/33397045">Strava</a></td>
   </tr>
-</table>
 
-<h4>New York</h4>
-
-<table width="100%">
   <tr>
-    <th width="40%">Name</th>
-    <th width="10%">World</th>
-    <th width="10%">Distance</th>
-    <th width="10%">Elevation</th>
-    <th width="10%">Download</th>
-    <th width="10%">More Info</th>
-    <th width="10%">Strava</th>
+    <td colspan="7"><strong>New York</strong></td>
   </tr>
   <tr>
     <td>The Full New York</td>
@@ -137,4 +111,5 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/the-full-new-york/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/40678671">Strava</a></td>
   </tr>
+
 </table>
