@@ -5,10 +5,10 @@ To download the .json files, right click on the Download link and choose Save li
 <table width="100%">
   <tr>
     <th width="40%">Name</th>
-    <th width="10%">Distance</th>
+    <th width="15%">Distance</th>
     <th width="10%">Elevation</th>
-    <th width="10%">Download</th>
-    <th width="20%">More Info</th>
+    <th width="5%">Download</th>
+    <th width="25%">More Info</th>
     <th width="10%">Strava</th>
   </tr>
   <tr>
