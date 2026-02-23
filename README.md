@@ -1,34 +1,140 @@
-
-A collection of route files that can be used with the [Sauce for Zwift](https://www.sauce.llc/products/sauce4zwift/) Zenmaster Mod.
+A collection of route files that can be used with the <a href="https://www.sauce.llc/products/sauce4zwift/">Sauce for Zwift</a> Zenmaster Mod.
 
 To download the .json files, right click on the Download link and choose Save link as...
 
 <h4>Watopia</h4>
 
-| Name        | World    | Distance | Elevation | Download | More Info | Strava |
-|-------------|----------|----------|-----------|----------|-----------|--------|
-| The Roads Less Traveled | Watopia | 59.5 km | 485 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Roads%20Less%20Traveled-Watopia.json) | [Zwift Insider](https://zwiftinsider.com/roads-less-traveled/) | [Strava](https://www.strava.com/segments/35861978) |
-| The Snake | Watopia | 80.2 km | 724 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Snake-Watopia.json) | [Zwift Insider](https://zwiftinsider.com/snake/) | [Strava](https://www.strava.com/segments/22313236) |
-| Cliffside Epic Double | Watopia | 53.5 km | 996 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Cliffside%20Epic%20Double-Watopia.json) | [Zwift Insider](https://zwiftinsider.com/cliffside-epic-double/) | [Strava](https://www.strava.com/segments/31849910) |
-| The Marvelous Metric | Watopia | 102.2 km | 457 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Marvelous%20Metric-Watopia.json) | [Zwift Insider](https://zwiftinsider.com/the-marvelous-metric/) | [Strava](https://www.strava.com/segments/40883256) |
-
+<table width="100%">
+  <tr>
+    <th width="40%">Name</th>
+    <th width="10%">World</th>
+    <th width="10%">Distance</th>
+    <th width="10%">Elevation</th>
+    <th width="10%">Download</th>
+    <th width="10%">More Info</th>
+    <th width="10%">Strava</th>
+  </tr>
+  <tr>
+    <td>The Roads Less Traveled</td>
+    <td>Watopia</td>
+    <td>59.5 km</td>
+    <td>485 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Roads%20Less%20Traveled-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/roads-less-traveled/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/35861978">Strava</a></td>
+  </tr>
+  <tr>
+    <td>The Snake</td>
+    <td>Watopia</td>
+    <td>80.2 km</td>
+    <td>724 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Snake-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/snake/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/22313236">Strava</a></td>
+  </tr>
+  <tr>
+    <td>Cliffside Epic Double</td>
+    <td>Watopia</td>
+    <td>53.5 km</td>
+    <td>996 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Cliffside%20Epic%20Double-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/cliffside-epic-double/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/31849910">Strava</a></td>
+  </tr>
+  <tr>
+    <td>The Marvelous Metric</td>
+    <td>Watopia</td>
+    <td>102.2 km</td>
+    <td>457 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Marvelous%20Metric-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/the-marvelous-metric/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/40883256">Strava</a></td>
+  </tr>
+</table>
 
 <h4>Scotland</h4>
 
-| Name        | World    | Distance | Elevation | Download | More Info | Strava |
-|-------------|----------|----------|-----------|----------|-----------|--------|
-| Fower Power | Scotland | 20.7 km  | 227 m     | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Fower%20Power-Scotland.json) | [Zwift Insider](https://zwiftinsider.com/fower-power/) | [Strava](https://www.strava.com/segments/34255076) |
-| Sgurr 8 | Scotland | 15.7 km  | 158 m     | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Sgurr%208-Scotland.json) | [Zwift Insider](https://zwiftinsider.com/sgurr-8/) | [Strava](https://www.strava.com/segments/34485671) |
+<table width="100%">
+  <tr>
+    <th width="40%">Name</th>
+    <th width="10%">World</th>
+    <th width="10%">Distance</th>
+    <th width="10%">Elevation</th>
+    <th width="10%">Download</th>
+    <th width="10%">More Info</th>
+    <th width="10%">Strava</th>
+  </tr>
+  <tr>
+    <td>Fower Power</td>
+    <td>Scotland</td>
+    <td>20.7 km</td>
+    <td>227 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Fower%20Power-Scotland.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/fower-power/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/34255076">Strava</a></td>
+  </tr>
+  <tr>
+    <td>Sgurr 8</td>
+    <td>Scotland</td>
+    <td>15.7 km</td>
+    <td>158 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Sgurr%208-Scotland.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/sgurr-8/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/34485671">Strava</a></td>
+  </tr>
+</table>
 
 <h4>Makuri Islands</h4>
 
-| Name        | World    | Distance | Elevation | Download | More Info | Strava |
-|-------------|----------|----------|-----------|----------|-----------|--------|
-| The Full Makuri | Makuri Islands | 81.2 km | 700 m | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Makuri-Makuri%20Islands.json) | [Zwift Insider](https://zwiftinsider.com/the-full-makuri/) | [Strava](https://www.strava.com/segments/40661737) |
-| Canyon to Cavern | Makuri Islands | 20.9 km  | 127 m     | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Canyon%20to%20Cavern-Makuri%20Islands.json) | [Zwift Insider](https://zwiftinsider.com/canyon-to-cavern/) | [Strava](https://www.strava.com/segments/33397045) |
+<table width="100%">
+  <tr>
+    <th width="40%">Name</th>
+    <th width="10%">World</th>
+    <th width="10%">Distance</th>
+    <th width="10%">Elevation</th>
+    <th width="10%">Download</th>
+    <th width="10%">More Info</th>
+    <th width="10%">Strava</th>
+  </tr>
+  <tr>
+    <td>The Full Makuri</td>
+    <td>Makuri Islands</td>
+    <td>81.2 km</td>
+    <td>700 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Makuri-Makuri%20Islands.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/the-full-makuri/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/40661737">Strava</a></td>
+  </tr>
+  <tr>
+    <td>Canyon to Cavern</td>
+    <td>Makuri Islands</td>
+    <td>20.9 km</td>
+    <td>127 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Canyon%20to%20Cavern-Makuri%20Islands.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/canyon-to-cavern/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/33397045">Strava</a></td>
+  </tr>
+</table>
 
 <h4>New York</h4>
 
-| Name        | World    | Distance | Elevation | Download | More Info | Strava |
-|-------------|----------|----------|-----------|----------|-----------|--------|
-| The Full New York | New York | 58.0 km  | 612 m     | [Download](https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20New%20York-New%20York.json) | [Zwift Insider](https://zwiftinsider.com/the-full-new-york/) | [Strava](https://www.strava.com/segments/40678671) |
+<table width="100%">
+  <tr>
+    <th width="40%">Name</th>
+    <th width="10%">World</th>
+    <th width="10%">Distance</th>
+    <th width="10%">Elevation</th>
+    <th width="10%">Download</th>
+    <th width="10%">More Info</th>
+    <th width="10%">Strava</th>
+  </tr>
+  <tr>
+    <td>The Full New York</td>
+    <td>New York</td>
+    <td>58.0 km</td>
+    <td>612 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20New%20York-New%20York.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/the-full-new-york/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/40678671">Strava</a></td>
+  </tr>
+</table>
