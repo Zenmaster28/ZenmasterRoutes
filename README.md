@@ -2,37 +2,18 @@ A collection of route files that can be used with the <a href="https://www.sauce
 
 To download the .json files, right click on the Download link and choose Save link as...
 
-<h4>Routes</h4>
-
 <table width="100%">
   <tr>
     <th width="40%">Name</th>
-    <th width="12%">Distance</th>
-    <th width="12%">Elevation</th>
-    <th width="12%">Download</th>
-    <th width="12%">More Info</th>
-    <th width="12%">Strava</th>
+    <th width="10%">Distance</th>
+    <th width="10%">Elevation</th>
+    <th width="10%">Download</th>
+    <th width="20%">More Info</th>
+    <th width="10%">Strava</th>
   </tr>
-
   <tr>
     <td colspan="6" align="center"><strong>— Watopia —</strong></td>
-  </tr>
-  <tr>
-    <td>The Roads Less Traveled</td>
-    <td>59.5 km</td>
-    <td>485 m</td>
-    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Roads%20Less%20Traveled-Watopia.json">Download</a></td>
-    <td><a href="https://zwiftinsider.com/roads-less-traveled/">Zwift Insider</a></td>
-    <td><a href="https://www.strava.com/segments/35861978">Strava</a></td>
-  </tr>
-  <tr>
-    <td>The Snake</td>
-    <td>80.2 km</td>
-    <td>724 m</td>
-    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Snake-Watopia.json">Download</a></td>
-    <td><a href="https://zwiftinsider.com/snake/">Zwift Insider</a></td>
-    <td><a href="https://www.strava.com/segments/22313236">Strava</a></td>
-  </tr>
+  </tr>  
   <tr>
     <td>Cliffside Epic Double</td>
     <td>53.5 km</td>
@@ -49,6 +30,23 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/the-marvelous-metric/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/40883256">Strava</a></td>
   </tr>
+  <tr>
+    <td>The Roads Less Traveled</td>
+    <td>59.5 km</td>
+    <td>485 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Roads%20Less%20Traveled-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/roads-less-traveled/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/35861978">Strava</a></td>
+  </tr>
+  <tr>
+    <td>The Snake</td>
+    <td>80.2 km</td>
+    <td>724 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Snake-Watopia.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/snake/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/22313236">Strava</a></td>
+  </tr>  
+  
 
   <tr>
     <td colspan="6" align="center"><strong>— Scotland —</strong></td>
@@ -74,14 +72,6 @@ To download the .json files, right click on the Download link and choose Save li
     <td colspan="6" align="center"><strong>— Makuri Islands —</strong></td>
   </tr>
   <tr>
-    <td>The Full Makuri</td>
-    <td>81.2 km</td>
-    <td>700 m</td>
-    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Makuri-Makuri%20Islands.json">Download</a></td>
-    <td><a href="https://zwiftinsider.com/the-full-makuri/">Zwift Insider</a></td>
-    <td><a href="https://www.strava.com/segments/40661737">Strava</a></td>
-  </tr>
-  <tr>
     <td>Canyon to Cavern</td>
     <td>20.9 km</td>
     <td>127 m</td>
@@ -89,6 +79,14 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/canyon-to-cavern/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/33397045">Strava</a></td>
   </tr>
+  <tr>
+    <td>The Full Makuri</td>
+    <td>81.2 km</td>
+    <td>700 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Makuri-Makuri%20Islands.json">Download</a></td>
+    <td><a href="https://zwiftinsider.com/the-full-makuri/">Zwift Insider</a></td>
+    <td><a href="https://www.strava.com/segments/40661737">Strava</a></td>
+  </tr>  
 
   <tr>
     <td colspan="6" align="center"><strong>— New York —</strong></td>
