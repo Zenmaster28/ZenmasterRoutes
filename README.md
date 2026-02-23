@@ -11,6 +11,7 @@ To download the .json files, right click on the Download link and choose Save li
     <th width="25%">More Info</th>
     <th width="10%">Strava</th>
   </tr>
+  <tr><td colspan="6">&nbsp;</td></tr>
   <tr>
     <td colspan="6" align="center"><strong>— Watopia —</strong></td>
   </tr>  
@@ -45,9 +46,8 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Snake-Watopia.json">Download</a></td>
     <td><a href="https://zwiftinsider.com/snake/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/22313236">Strava</a></td>
-  </tr>  
-  
-
+  </tr>    
+  <tr><td colspan="6">&nbsp;</td></tr>
   <tr>
     <td colspan="6" align="center"><strong>— Scotland —</strong></td>
   </tr>
@@ -67,7 +67,7 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/sgurr-8/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/34485671">Strava</a></td>
   </tr>
-
+  <tr><td colspan="6">&nbsp;</td></tr>
   <tr>
     <td colspan="6" align="center"><strong>— Makuri Islands —</strong></td>
   </tr>
@@ -87,7 +87,7 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://zwiftinsider.com/the-full-makuri/">Zwift Insider</a></td>
     <td><a href="https://www.strava.com/segments/40661737">Strava</a></td>
   </tr>  
-
+  <tr><td colspan="6">&nbsp;</td></tr>
   <tr>
     <td colspan="6" align="center"><strong>— New York —</strong></td>
   </tr>
