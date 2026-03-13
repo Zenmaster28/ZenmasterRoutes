@@ -22,7 +22,14 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://www.strava.com/segments/31849910">Strava</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.strava.com/segments/40883256">The Marvelous Metric</a></td>
+    <td><a href="https://zwiftinsider.com/the-full-watopia/">The Full Watopia</a></td>
+    <td>155.1 km</td>
+    <td>2909 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Full%20Watopia-Watopia.json">Download</a></td>
+    <td><a href="https://www.strava.com/segments/40760759">Strava</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://zwiftinsider.com/the-marvelous-metric/">The Marvelous Metric</a></td>
     <td>102.2 km</td>
     <td>457 m</td>
     <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/The%20Marvelous%20Metric-Watopia.json">Download</a></td>
