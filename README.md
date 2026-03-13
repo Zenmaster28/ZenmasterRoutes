@@ -15,6 +15,13 @@ To download the .json files, right click on the Download link and choose Save li
     <td colspan="5" align="center"><strong>— Watopia —</strong></td>
   </tr>  
   <tr>
+    <td><a href="https://zwiftinsider.com/rebel-route-big-ring-little-ring/">Big ring/Little ring</a></td>
+    <td>21.5 km</td>
+    <td>149 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Big%20ring%20Little%20ring-Watopia.json">Download</a></td>
+    <td><a href="https://www.strava.com/segments/40906313">Strava</a></td>
+  </tr>
+  <tr>
     <td><a href="https://zwiftinsider.com/cliffside-epic-double/">Cliffside Epic Double</a></td>
     <td>53.5 km</td>
     <td>996 m</td>
