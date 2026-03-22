@@ -29,6 +29,20 @@ To download the .json files, right click on the Download link and choose Save li
     <td><a href="https://www.strava.com/segments/31849910">Strava</a></td>
   </tr>
   <tr>
+    <td><a href="https://zwiftinsider.com/rebel-route-lap-it-up/">Lap It Up</a></td>
+    <td>66.1 km</td>
+    <td>512 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Lap%20It%20Up-Watopia.json">Download</a></td>
+    <td><a href="https://www.strava.com/segments/41018480">Strava</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://zwiftinsider.com/rebel-route-lap-it-up/">Lap It Up + Jungle Afterparty</a></td>
+    <td>104.0 km</td>
+    <td>893 m</td>
+    <td><a href="https://raw.githubusercontent.com/Zenmaster28/ZenmasterRoutes/main/routes/Lap%20It%20Up%20Jungle%20Afterparty-Watopia.json">Download</a></td>
+    <td><a href="https://www.strava.com/segments/41018371">Strava</a></td>
+  </tr>
+  <tr>
     <td><a href="https://zwiftinsider.com/the-full-watopia/">The Full Watopia</a></td>
     <td>155.1 km</td>
     <td>2909 m</td>
